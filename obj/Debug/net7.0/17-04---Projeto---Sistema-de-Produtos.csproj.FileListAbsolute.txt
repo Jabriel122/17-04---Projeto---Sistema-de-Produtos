@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\bin\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.exe
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\bin\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.deps.json
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\bin\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\bin\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.dll
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\bin\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.pdb
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.dll
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\refint\17-04---Projeto---Sistema-de-Produtos.dll
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.pdb
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\17-04---Projeto---Sistema-de-Produtos.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\17-04---Projeto---Sistema-de-Produtos\obj\Debug\net7.0\ref\17-04---Projeto---Sistema-de-Produtos.dll
